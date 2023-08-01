@@ -1,3 +1,3 @@
 # Gockhi.github.io
 ![alt text](https://github.com/Gockhi/Gockhi.github.io/blob/main/IMG_1328.png "Logo Title Text 1")
-![Alt text]([https://github.com/Gockhi/Gockhi.github.io/blob/main/IMG_1328.png?raw=true] "Title")
+![Alt text](https://github.com/Gockhi/Gockhi.github.io/blob/main/IMG_1328.png?raw=true "Title")
