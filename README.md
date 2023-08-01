@@ -6,6 +6,6 @@
 
 
 Reference-style: 
-![logo]
+![alt text](https://github.com/Gockhi/Gockhi.github.io/blob/main/IMG_1328.heif "Logo Title Text 1")
 
-[logo]: [https://github.com/Gockhi/Gockhi.github.io/blob/main/IMG_1328.heif]  "<3"
+
